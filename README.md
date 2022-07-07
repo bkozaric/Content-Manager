@@ -32,7 +32,7 @@ Content Manager uses a number of open source projects to work properly:
 ![Home page](https://i.imgur.com/p6YSj9f.gif)
 
 # Preview movies
-![Preview movies](https://i.imgur.com/rk0QNHa.png)
+![Preview movies](https://i.imgur.com/vqs8NhS.gif)
 
 # Preview creators
 ![Preview creators](https://i.imgur.com/mvPqURs.png)
