@@ -1,6 +1,6 @@
 # Content Manager
 Content Manager is a web app created for movie makers to easily manage their content and share it across multiple platforms (Patreon, Twitter, Discord). Developed in MERN stack.
-This application is hosted on heroku! Check it out **[here](https://nameless-sands-63928.herokuapp.com/)**. 
+This application is hosted on heroku! Check it out **[here](https://content-manager-bkozaric.herokuapp.com/)**. 
 
 ## Features
 
